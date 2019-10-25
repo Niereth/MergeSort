@@ -1,0 +1,7 @@
+boolean
+children
+friend
+gift
+rainbow
+stadium
+territory
